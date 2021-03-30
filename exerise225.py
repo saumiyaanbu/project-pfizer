@@ -17,7 +17,7 @@ print (now.second)
 #print "In 1000 days from now is it: ", now + datetime.timedelta(days=1000))
 
 #print ("-" * 25)
-birthday = datetime.datetime(2012,11,04)
+birthday = datetime.datetime(2012,11,4)
 
 print ("Birthday in ... ", birthday - now)
 #print ("-" * 25)
